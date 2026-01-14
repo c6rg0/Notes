@@ -1,0 +1,25 @@
+Task 1:
+1.
+Root - Jack
+Edge - The lines which connect the nodes to one another
+Parent - Henry Jane
+Child - Joe, Alie, Becky, Ken, Mike
+Subtree - The left and right sides below the root
+Leaf - Jill
+
+2.
+a) (left side) 4,3, (right side) no clue
+b) get gud
+
+Task 2:
+3.
+a) mosue, fox, cat, goat, bat, dog, snake, python, tiger, otter,
+   rabbit
+
+b) bat, cat, dog, fox, goat, mouse, otter, python, rabbit, snake,
+   tiger
+
+c) bad, dog, cat, goat, fox, otter, rabbit, python, tiger, snake,
+   mouse
+
+

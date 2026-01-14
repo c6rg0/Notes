@@ -1,0 +1,22 @@
+1. Identify and explain two endogenous pacemakers. (4 marks) 
+
+Endogenous pacemakers are internal body clocks which control the 
+timing of bodily functions. One endogenous pacemaker is the pineal
+gland, which releases melatonin in the evening and night, and it's
+responsible for making us feel tired. Another endogenous pacemaker
+is the superchiasmatic nucleus (SCN), and it's the body's master 
+clock. It's responsible for regulating sleep cycles in animals,
+and the reception of light inputs allow it to control the cellular
+clocks of the body.
+
+2. Evidence suggests the existence of the 90 minute sleep cycle 
+   during sleep. Nathaniel Kleitman (1969) also suggests a similar 
+   90-minute cycle during waking hours – he called this the Basic 
+   Rest-Activity Cycle (BRAC). Conduct a research and explain what 
+   BRAC is using Kleitmans’ study. 
+
+
+
+3. Conduct a research on chronotherapeutic, give a clear definition
+   and use Beneditti et al. (2007) study to add more information. 
+

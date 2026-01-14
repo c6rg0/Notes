@@ -1,0 +1,58 @@
+## Question:
+## Assess the usefulness of scenario planning to a business
+## such as ASOS (12 marks).
+
+Scenario planning is planning for the future to try to prevent
+possible issues that could occur without warning. Through 
+risk assesment, a business might identify one of the 
+following problems: natural disasters, loss of key staff and 
+IT service failure.
+
+One advantage of scenario planning to a business such as ASOS
+is that it could help the business mitigate problems as they
+occur. There are four steps to risk mitigation: risk 
+acceptance, risk avoidance, risk limitation and risk 
+transference. These all are supposed to be used in a state
+of certainty without any problems going on, but risk 
+acceptance and limitation would ensure that the company can
+still carry on in a situation opposite to ideal. This
+could have been a reason behind the success of the companies
+recovery from the 2014 Barnsley site fire, which disrupted 
+the business for three days.
+
+Another stength of scenario planning is that through scenario
+planning, the business can prepare for future problems. ASOS
+has gone through 2 fires (in 2017 and 2014), and despite the 
+damage of 2 million products for £6 million, with the help
+of their scenario plan: they were able to contain the fire, 
+follow all the relevant safety measures, and successfully 
+fulfil orders from Germany through its Barnsley warehouse.
+Compared to the 2014 Barnsley site fire, where the company 
+lost 20% of their total stock, they were able to reduce the 
+impact a significant amount so that the business doesn't get
+close to failing.
+
+However, you could argue that scenario planning isn't as 
+useful because it requires a significant resource investment.
+To ensure that all the systems that keep the business running 
+have plans and backups, as well as more widespread 
+infrastructure to spread risks to make sure there isn't 
+just a singular point of failure will be expensive. 
+For example, if a database which holds consumer details and 
+data - which is vital for the business - had to get a backup 
+(better if it's in a completely different area of the world), 
+it would require spending 2 times more on that system.
+
+In conclusion, scenario planning is usefull for ASOS since it's 
+in a part of a market that requires mass amounts of stock to 
+be circulator from factory to consumer, so environmental 
+disasters and other similar situations (fires) could be 
+detrimental, especially when warehouses are set up for 
+efficiency and not for. Planning for future unfortunate
+situation also aligns the the companies objectives since it had
+2 fires in short succession. ASOS is also a clothes 
+manufacturer, and you cannot recover stock while services the
+business sells will be less prone to disruption.
+
+
+

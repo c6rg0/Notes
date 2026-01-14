@@ -1,0 +1,36 @@
+Dijkstra's shortest path algorithm and A* algorithm:
+
+Breadth first traversal is used for finding the shortest path 
+between two nodes.
+Similar to breadth first search, Dijkstra's algorithm is also used
+to find the shortest path between two nodes. The algorithm is also
+used for weighted graphs.
+For example, if the nodes represent places, the weigths may present
+the distane between the places or the time taken to travel. This 
+algorithm is implemented using a priority queue.
+The algorithm is also used in networking for routing packets 
+through the shortest path.
+
+A* algorithm, also known as best-first-search, is also used in case
+of weighted graphs.
+This algorithm is used to find the shortest path to a goal node.
+This algorithm is used in maps to find the shortest distance between
+the source and destination.
+Best-first search is a pathfindin algorithm used in computer science
+and artificial inteligence to find the most promosing path to a 
+goal. It uses a heuristic function to decide which node to explore
+next.
+
+A heuristic is like a smart guess.
+It doesn't guarantee the perfect answer, but it helps you get a 
+good enough answer quickly.
+
+In A* algorithm, two cost functions are used to calculate the cost
+of nodes:
+	g(x): A real cost function similar to the one implemented 
+	in Dijkstra's algorithm.
+	h(x)L A heuristic function that calculates the approximate
+	cost of the goal node from the node x. The cost should not
+	be overesitmated. Hence, g(x) >= h(x).
+	The total cost, f(x) = g(x) + h(x)
+

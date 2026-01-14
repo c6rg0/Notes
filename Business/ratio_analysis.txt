@@ -1,0 +1,70 @@
+3.5.2 Ratio analysis:
+
+Ratio analysis is a quantitative method of gaining insight into a company's liquidity, operational efficiency, and profitability by 
+studying its financial statments such as the statement of financial position (SOFP) and the statement of comprehensive income (SOCI
+).
+
+Current ratio formula:
+Current assets / current liabilities.
+
+The answer should be expressed as a ratio to 1, so for example 3:1.
+This is also known as the working capital ratio.
+The ideal is around 1.5:1 and 2:1.
+Below 1.5:1, the business might not have enough working capital to cover all their bills.
+They may be over-borrowing or over trading and will have cash flow problems.
+Above 2:1 and the money in the business is tied up and not being used efficiently.
+
+1.2:1
+
+Acid test ratio formula:
+(Current assets - inventory) / current liabilities
+
+The acid test ratio is also known as the quick ratio and is the most commonly used ratio to judge the financial health of a 
+business. 
+Stock is excluded because it may perish or be obsolete or not worth the stated value. If it was to be included it would over value
+the business.
+A result of less than 1:1 means that the current assets do not meet their current liabilities and the business will struggle to pay
+the day-to-day bills e.g. suppliers.
+
+1.09:1 
+
+Gearing ratio formula: 
+(Non-current liabilities / Capital employed) x 100
+The answer should be expressed as a percentage.
+
+Non-current liabilities are also known as long-term liabilities.
+
+The gearing ratio looks at the long-term finance of the business and where it comes from.
+A result of over 50%(?) means that the business is highly geared, most of the money comes from loans, this is very risky for a 
+potential investor.
+A result of less than 50% means that the business is low geared and most of the money comes from the owners, a better risk for an
+investor.
+
+Capital employed = Shareholders equity + Long-term liabilities
+Capital employed = total assets - current liabilities
+
+ROCE ratio forumula:
+(Operating profit / Capital employed) x 100
+The ratio must be expressed as a percentage
+
+Return on capital employed is a measure of this profitability of the business.
+If you were considering investing in a business, you might calculate the ROCE % and then compare this against a bank savings
+plan (less risky) of 5%.
+The higher the ROCE figure the better.
+Demonstrates how hard the business made the money invested work.
+
+-2.5%
+0.7%
+
+Limitations of ratio analysis:
+The statement of financial position (SOFP) or balance sheet is just a snapshot of the business on one day. If the rations are based
+on this figure, then it's a ratio of just one day.
+The ratios are only as good as the data provided
+The ratios need comparisons to previous data
+Ratios must be seen in an industry context
+Keep in context
+During a recession for example, it may be useful to compare the business performance with a competitor
+
+
+
+

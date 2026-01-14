@@ -1,0 +1,83 @@
+Quantative sales forecasting:
+
+Quantative sales forcasting is a statistical technique which uses user data to make predictions about the possible sales level in the
+future.
+This method that your exam board would like you to know about is called - time series analysis.
+In a nutshell, it uses historical data, smoothed out to make better sales predictions for the future, so that production or purchasing of 
+supplies can be more accurate, thus reducing costs.
+
+Once a business has carried out time series analysis, they will use this information to;
+  Organise production
+  Organise the staff needed for this level of production (hr)
+  Organise the finances to manufacture the products
+  Organise marketing to promote the products being sold
+
+3 period moving average calculations:
+  The business production operations manager might need to look at the sales data 3 times a year and smooth out any seasonal variations or
+  spikes in the data.
+  This will help the business to organise all the functions that are involved in producing the goods or services; marketing, finance,
+  production and human resources.
+
+
+2015 556.66...
+2016 723.33...
+2017 756.66...
+2018 733.33
+2019 800
+2020 1100
+
+Line of best fit:
+  Having identified the trend line using the time series analysis, future sales can be predicted by drawing a line of best fit and 
+  extrapolating it to a point in the future.
+  A line of best fit can be drawn by eye or plotted accurately using a computer or graph paper. The line of best fit should pass through 
+  (x,y) where x is the average of years, and y is average sales.
+
+300 + 500 + 600 + 550 = 1950
+500 + 600 + 550 + 600 = 2250
+600 + 550 + 600 + 750 = 2500
+550 + 600 + 750 + 850 = 2750
+600 + 750 + 850 + 1100 = 3200
+750 + 850 + 1100 + 800 = 3500
+850 + 1100 + 800 + 1100 = 3850
+
+1950 + 2250 = 4200 / 8 = 525
+2250 + 2500 = 4750 / 8 = 593.75
+2500 + 2750 = 5250 / 8 = 656.25
+2750 + 3300 = 6050 / 8 = 756.25
+3300 + 3500 = 6800 / 8 = 850
+3500 + 3850 = 7350 / 8 = 918.75 
+
+Interpreting scatter graphs:
+Scatter graphs allow businesses to compare two variables, such as sales volume and advertising, to establish if there is any correlation
+between them.
+
+Types of correlation:
+A correlation exists where there is a relationship or connection between two things.
+
+A positive correlation means that as one variable increases, so 
+does the other variable (A line of best fit that slopes upwards 
+can be identified).
+
+A negative correlatio neans that as one variable increases, the
+other variable decreases (A line of best fit that slopes downwards
+can be identified).
+
+Correlation does not always indicate causation or relationship
+between two sets of variables, so businesses need to conduct
+research to establish whether a relationship exists, as well as
+the strength of that relationship.
+
+Limitations of quantative sales forecasting techniques:
+- Past sales figures are no guarantee of future sales.
+- Businesses need to appreciate the SWOT and PESTLE factors that 
+  may affect future predictions (for example; weather, trends,
+  competitor activity, terrorist activity).
+- Quantative sales forecasting relies on what has happened in the
+  past continuing to happen, and historical data is not always
+  a good indicator of what might happen in the future (COVID).
+- In high technology markets change happens rapidly and have a 
+  short product life cycle.
+- It is time consuming and complex, only as reliable as the data.
+- Use of moving averages doesn't consider how recent the data is.
+
+

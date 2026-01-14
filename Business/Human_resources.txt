@@ -1,0 +1,145 @@
+3.5.3 Human resources:
+
+1. Define what labour productivity is:
+Labour productivity is the output per worker in a time period.
+For example, in a car garage we could measure the number of 
+faults fixed by each mechanic in a day.
+
+2. How do you interpret labour productivity:
+Productivity is output per worker, and it measures the 
+efficiency of the workforce.
+A business will seek to increase productivity to reduce the 
+average cost per unit to produce.
+Labour productivity can be improved through kaizen, TQM, lean
+production.
+Labour productivity can be measured by a formula.
+
+3. What is the formula to calculate 'Labour productivity:
+Labour productivity = Total output / Number of workers
+
+4. Fill in the blanks:
+A: 40000 / 300 = 133.3
+B: 1million / 524 = 1908.4
+C: 257524 / 457 = 563.5
+
+5. How do you define 'Labour turnover':
+Labour turnover measures the rate at which employees leave the 
+business is a 1 year period.
+
+6. What is the formula to caluclate 'Labour turnover':
+(Number of employees leaving / Average number of employees) 
+x 100
+
+7. Fill in the blanks:
+A: (21 / 300) x 100 = 7
+B: (45 / 524) x 100 = 8.6
+C: (3 / 447) x 100 = 0.7
+
+8. How do you interpret 'labour turnover':
+A high rate of labour turnover would be bad for business; it
+means that staff are so unhappy they don't stay in the business
+and they leave.
+The business then has all the costs of recruiting and training
+another member of staff.
+One of the objectives of a business might be to reduce the rate
+of labour turnover.
+We can measure the rate of turnover using a formula.
+This is a measure of performance. 
+Some industries may naturally have a high turnover so context
+is important. 
+Turnover should be measured against historical figures in the 
+business.
+High labour turnover may be due to poor recruitment, weak 
+induction, lack of challenge in the job and low pay rates.
+If this figure is rising year on year management should see 
+this as a red flag and investigate it.
+
+9. How do you degine 'Absenteeism':
+The number of staff who are absent as a percentage of the total
+workforce. The habitual non-presence of an employee at his or
+her job. Possible causes of absenteeism include job 
+dissatisfaction, ongoing personal issues and medical problems.
+Regardless of cause, a worker with a pattern of being absent
+may put their reputation at risk, and may loose their job.
+
+10. What is the formula to calculate 'Absenteeism':
+(Staff absent in a particular time period / total number of 
+staff) x 100
+
+11. Fill in the blanks:
+A: (21 / 730) * 100 = 2.9
+B: (45 / 1095) * 100 = 4.1
+C: (3 / 1460) * 100 = 0.2
+
+12. How do you interpret 'Absenteeism':
+The results of absenteeism calculations can show if there is 
+low staff morale or job satisfaction.
+This can be caused by; poor management, stress at work through
+role overload or under load, lack of recognition or poor 
+working conditions.
+Some absenteeism is natural as may be ill, but too much and it
+could cost the business in terms of lost orders and poor 
+customer relations.
+Absenteeism can be improved through job enlargement, job 
+rotation, incentive schemes etc.
+
+
+13. Explain the flowing 'Human resouce strategies' in detail:
+
+i. How can you reduce absenteeism:
+By introducting more flexible working practices (e.g flexitime
+or job share).
+By ensuring that jobs are interesting and challenging.
+By improving working conditions and thus reducing 
+dissatisfaction.
+By improving relations between employers and employees.
+By introducing attendance bonuses as an incentive to attend
+regularly.
+
+ii. Explain financial rewards:
+To motivate stagg so that they will turn up for work and will 
+work harder is sometimes possible to do so through financial
+rewards.
+For example; commision in sales jobs, overtime on a weekly 
+wage, bonus on a salaried wage, piece rate which is paid per 
+unit, fees which is one off payment for work completed.
+
+iii. What is meant by employee share ownership:
+Where key employees will be paid a trance of shares if the 
+business reaches important performance targets. 
+Shared ownership can also bring a say in who runs the 
+company. 
+On major issues it can be a powerful reason for employees to
+focus on business improvement.
+However, employee share ownership never means employees taking
+over business management.
+
+iv. What is meant by consultation strategies:
+When the management actually engage in discussions with 
+employees about strategies and working practices.
+Employees are motivated by being consulted on matters relating
+to work by managers.
+This can reduce absenteeism and labour turnover as it involves
+the employee is a discussion on; pay conditions and work 
+matters.
+
+v. What is meant by empowerment strategies:
+Empowerment means giving employees the authority to make
+decisions.
+This shows recognition of an employee's abilities and 
+trustworthiness, and will boost their self-confidence and
+motivate them hopefully reducing absenteeism and raising 
+productivity.
+Criticism of this method is that it may be an excuse to cut
+costs, delayer and make managers redundant.
+
+I believe that the most optimal option for reaching buy directs objective of increasing revenue is through diversification.
+
+Structure-conclusion:
+Which option?
+Why? (what is your most important reason? or why is option x better than option y?)
+This links to ... - develop with three chains of development. You can use MOPS or the short-term vs long term view to help.
+Add in some context to your conclusion (at hasn't been mentioned before).
+
+MOPS; market, objectives, products (or services), situation
+

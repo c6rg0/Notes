@@ -1,0 +1,124 @@
+Descriptive statistics analyse quantitative(numerical) data to help
+describe, show or summarise it in a meaningful way.
+
+Measures of central tendency:
+Hey diddle diddle,
+The median is the middle,
+you add and divide for the mean,
+the mode is the one that occurs the most,
+and the range is the difference between.
+
+The mean is the only method to take all the scores in a data set
+into consideration. However, the mean is skewed by anomalies. If 
+there are extreme high or low scores in the data set, the mean will
+be affected.
+
+The mode is not affecte by anomalies. It only looks at the most 
+frequently occuring scores, which means that the mode cannot be an
+anomaly. However, the mode does not consider all scores, and if 
+there is more than on mode, then it does not tell us much about the
+data set.
+
+The median is not affecte by anomalies. It only looks at the middle
+value, which will not be an anomaly. However, the median does not 
+consider all scores so it may not be truly representative of the 
+data set.
+
+
+
+There are two main measures of dispersion, and they inform us about
+the spread/variation in a data set:
+- range
+- standard deviation
+
+Low range/SD suggest less variation, while high scores suggest 
+plenty of variation in a data set.
+Low scores are ideal.
+
+Range - the difference between your highest and lowest values.
+
+Standard deviation is a measure of dispertion that shows the spread
+of scores around the mean.
+The greater the standar deviation, the greater the spread of scores 
+around the mean.
+
+SD is calculated using all the values in a data set; therefore, it 
+is arguably more representative than the range.
+However, it's complex and time-consuming to calculate. In addition,
+SD calculatiosn are based on the mean, which could be skewed.
+If the mean is affected by anomalies, then the calculations for SD
+will also be inaccurate.
+
+The range is a quicker and easier measure of dispersion to caluclate
+; however, it is not as precisie as standard deviation.
+In addition, the range uses the highest and lowest scores in a data
+set, which means that the anomalous data could be involved in the 
+calculation.
+
+
+
+(new value - original value)
+---------------------------- x100 = precentage increase
+     original value
+
+((16 - 13) / 13) * 100 = 23.08%
+
+
+(original value - new value)
+---------------------------- x100 = precentage decrease
+     original value
+
+((13 - 8) / 13) * 100 = 38.46%
+
+
+may -> june = ((67-59) / 67) * 100 = 11.94%
+100 - 11.94 = 88.06% of those diagnosed in may
+june -> july = (88.06 / 100) * 59 = 52 cases (rounded) 
+july -> august = (88.06 / 100) * 52 = 46 cases (rounded) 
+
+A bar chart or bar graph is a graph that presents categorial data
+with rectangular bars with heights or lengths proportional to the 
+values they present.
+
+A histogram is a display of statistical information that uses 
+rectangles to show the frequency of data items in successive 
+numerical intervals of equal size.
+In the most common form of histogram, the independent variable is
+plotted along the horizontal axis and the dependent variable is
+plotted along the vertical axis.
+
+Bar charts:
+- Bars have equal space
+- Bar charts are used to compare variables
+- Bar charts plot categorial/nominal data
+
+Histograms:
+- Bars are fixed close together
+- Histograms are used to show distributions of variables
+- Histograms plot quantitative data with ranges of the data 
+  grouped into bind or intervals.
+
+Distributions:
+Normal distributions:
+A normal distribution is an arragement of data that is symmetrical
+and forms a bell-shaped pattern where the mean, median and (or) mode
+falls into the centre at the higest peak.
+In other words, in a normal distribution, the mean and the median
+are the same number, or the same interval range.
+
+A distribution is skewed when data points cluster more towards
+one side of the scale than the other, creating a curve that is not
+symmetrical.
+
+A distribution is positively skewed if the scores fall toward the 
+lower side of the scale and there are very few higher scores.
+Positively skewed data is also referred to as skewed to the right,
+as it has a long tail that extends to the right.
+Elo systems are positively skewed.
+
+A negatively skewed distribution is negatively skewed if the scores 
+fall toward the higher side of the scale and there are very few
+low sccores.
+Negatively skewed data is also reffered to the left because it has 
+a long tail end that extends to the left.
+

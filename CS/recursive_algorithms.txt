@@ -1,0 +1,65 @@
+Factorials:
+Example: 5! = 5 x 4 x 3 x 2 x 1
+5! (spoken 5 factorial) is a shorthand way of expressing the 
+product of number 1 to 5.
+Note also that 0! = 1 by defenition
+
+Recursion:
+The factorial function is a good example of a function that can
+be defined in terms of itself.
+n! = n x (n - 1)!
+Recursion is a very powerful technique in programming.
+
+- Python recoursive routine example:
+# start python
+def calc(n):
+	if n == 0:
+		factorial = 1
+	else:
+		factorial = n * calc(n - 1
+	print(factorial)
+	return 
+# end python
+
+- How does the code work?
+  Each time the subroutine is called, the return address, parameter
+  and local variables, parameter and local variables are pushed 
+  onto the stack.
+  Statement 6 is not reached until the routine is called with n = 0
+  , then 0! = 1 is output.
+
+Essential characteristics:
+  A recursive routine has three essential characteristics:
+    - A stopping condition or base case must be included which
+      when met means that the routine will not call itself and
+      will start to "undwind".
+    - For input values other than the stopping condition, the 
+      routine must call itself.
+    - The stopping condition must be reached after a finite number
+      of calls.
+
+The use of the call stack:
+  Every time a subroutine is called, the return address (the line
+  after the call statement) is put on the call stack.
+  Even with a stopping condition, the recursive routine can only
+  be called a limited number of times or the stack will overflow
+  the maximum memory capacity.
+  If the calcSum subroutine is called with a large number, say 
+  1000, the program may crash with the same message:
+    [RuntimeErrorL maximum recursion depth exceeded]
+
+Tree traversal algorithms:
+  Recalll that there are three ways of traversing a tree:
+  pre-order, in-order and post-order.
+  The prefixes pre-, in-, or post- refer to whether the root is
+  visited before, between or after the nodes of the subtree.
+
+Algorithms for tree traversal:
+  A tree is defined in terms of a root, a left subtree and a right
+  subtree.
+  Each subtree is itself a tree.
+  A recursive routine is a very neat way of traversing a tree.
+
+
+
+

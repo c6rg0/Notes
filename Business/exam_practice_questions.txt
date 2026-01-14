@@ -1,0 +1,48 @@
+(4 marker)
+Net gain for the marketing campaign:
+(0.6 * 3000000) + (0.4 * -50000) - 360000 = 1 420 000
+
+
+(20 marker/minutes?)
+Using the data in Extracts (E to H), Payback and NPV investment
+appraisal methods, evaluate Plan A and B expansion plans and 
+recommend which one might be better for Northfield Cycles:
+
+Plan:
+Payback:
+  Pros:
+    It is a simple method to calculate and understand
+    It is useful when new products are made regularly
+  Cons:
+    It provides no insight into the profitability
+
+NPV:
+  Pros:
+    It considers the opportunity cost of money
+    Businesses may choose different discount tables to adjust 
+    the levels of risk involved
+  Cons:
+    Challenging to accurately forecast future cash flows
+
+Payback is a method of investment appraisal which works out the
+time is takes to pay back the initial investment. NPV (net present
+value) is a method of investment appraisal that takes interest 
+rates into account by calculating the present value, discounted
+according to the interest given up.
+
+One reason why payback may be recomended for Northfield Cycles (NC)
+is because it is a simple method to calculate and understand.
+This means that Richard Tranter - the owner - can calculate payback
+himself, saving money that might have been more productively spent
+doing normal shop duties (selling, servicing, fixing). Also 
+considering that he sells an average of £40,000 worth of bikes a
+week, it's safe to consider that he doesn't have much time to
+use more complicated investment appraisal methods.
+
+Another reason why Northfield Cycles should use payback is because
+Giant bikes, and possibly other brands can have a product life 
+span as short as 12 months, and that new products are regulary 
+made. 
+
+
+

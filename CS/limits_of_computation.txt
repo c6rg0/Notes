@@ -1,0 +1,37 @@
+Limits of computation:
+
+A problem is defined as being computable if there is an algorithm
+that can solve every instance of it in a finite number of steps.
+
+A computational problem is a task or question that can be solved
+using a computational process (i.e. an algorithm). It typically has:
+- Input: A set of valid data or conditions,
+- Outputs: A desired result or solution,
+- Rules: A method or algorithm that transforms the input into the 
+         output.
+
+Non-computable problems:
+These are problems for which no algorithms can solve them for all
+possible inputs.
+Example:
+The Halting Problem; determining whether any given program will
+eventually stop or run forever.
+
+TSP = traveling salesman problem
+
+Solving the TSP:
+The problem quickly becomes impossible to solve within a reasonable
+time.
+Even with only 10 cities, there are more than three possible routes.
+With 50 cities, the number of possible routes is a 65-digit number!
+This is an example of an interactable problem:
+	It has a time complexity O(n!)
+
+Tracable problems:
+A problem that has a polynomial-time soltuion or better is called 
+a tracable problem.
+
+
+
+
+

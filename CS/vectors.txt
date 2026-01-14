@@ -1,0 +1,114 @@
+Abstraction involved constructing a model that represents only a 
+part of reality that we are interested in.
+It ignores irrelevant detail in the real-world phenomenon of 
+interest.
+An abstract data type (ADT) is a logical view of the data and
+possible operations.
+An ADT can help us design algorithms to solve real-world problems.
+
+A scalar mathmatical quantity has magnitude only.
+A vector mathematical quantity has both magnitude (length) and 
+direction.
+
+Why use vectors?
+   Vector graphics and 3D graphics:
+      Images are defined as paths, not distinct bit patterns
+      Rules of mathematics allow scaling without distortion
+   Computer games/Simulations:
+      The combination of moving forces, represented by vectors, 
+      can be resolved into a single path by using the same 
+      mathematical rules.
+   Multiple dimensions:
+      Can represent 2, 3 or more dimensions.
+
+Notation used for a 2 vector:
+   As an arrow:
+      From the origin (0, 0) to the point (4, 3)
+   A 2-vector over R, where R is the set of real numbers:
+      [4.0, 3.0]
+      R^2 (A-2 vector)
+      All entries must be from R
+   Example:
+      A path in a vector graphic
+
+Notation (3-Vector):
+   As an arrow:
+      From the origin (0, 0, 0) to the point (ax, ay, az) in 3d
+      space.
+   A 3-vector over R, where R is the set of real numbers:
+      [4.76, 3.0, 2.03]
+      R^3
+      All entries must be from R
+   Example:
+      A point in space representing an asteroid in a computer game.
+
+Notation (4-vector)
+   A 4-vector over R, where R is the set of real numbers
+      [7.843, 4.254, -3.567, 2.0]
+      R^4
+      All entries must be R
+   Example:
+      A 4 dimensional spacetime
+      A 3-vector over R, degined (x, y, z) and a 4th dimension as
+      time.
+      [x, y, z, t]
+
+Notation - function:
+   In order to translate from mathematical notation to a notation
+   more useful in programming, we use a 'map' function.
+   The notation S => R means 'S maps to R'
+   A vector can be used as a location indicator, where
+      S = {0, 1, 2, 3} maps to [2.55, -3.88, 4.11, 5.77]
+      0 => 2.55
+      1 => -3.88
+      2 => 4.11
+      3 => 5.77
+
+Vector representation in Python:
+   In Python, the list is the preferred representation.
+   A R^2 could be defined as:
+      vector2 = [6.34, 98, 75]
+
+A vector viewed as a function:
+   In python, a dictionary may be used, so for example an R^4 
+   could be represented as:
+      dict4 = {0:6.12, 1:-7,34, 2:-8.45, 3:9.02}
+
+Vector addition:
+   The vector sum (a+b) is found by relocating b so that head 
+   touches tail (translation)
+   Add vectors by adding the x- and y-parts seperately.
+   The red vector has a direction of (5,1)
+   The red vector has a magnitude of square-root(5^2 + 1^2)
+   In effect, addition is translation because of the shifting of
+   the vector.
+
+Exercice:
+   A = (4, 0), B = (3, 4) 
+   What is C = A + B?
+   (4 + 3) and (0 + 4) = (C = (7, 4))
+
+Dot product:
+   A method for multiplying 2 vectors
+   Written by using a dot
+   Multiply corresponding components of each vector
+   U . V = U^1 V^1 + U^2 V^2 + U^2 V^3 + ... U^n V^n
+   Usage:
+      One vector contains unit prices, another vector contains
+      numbers solf, then dot product gives amount of money taken.
+      Finding the angle between two vector.
+
+Angle between two vectors:
+   The lengths of the vectors can be written in mathematical
+   notation as:
+      ||U|| and ||v||
+   The formula for finding the angle (0/ = circle with a line going) 
+   between u and v is:
+      cos 0/ = (u . V) / (||U|| . ||V||) 
+
+   Graphic programmers often need to find the angle between two
+   vectors.
+   The dot product may be used to do this.
+
+
+

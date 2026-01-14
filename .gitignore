@@ -1,0 +1,11 @@
+# Ignore everything
+/*
+
+# But not these files
+!.gitignore
+!README.md
+
+# School notes
+!Business/
+!Psychology/
+!CS/

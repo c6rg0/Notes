@@ -1,0 +1,202 @@
+3.3.2 Investment appraisal:
+
+Defenition: Investment appraisal:
+  Investment appraisal attempts to determine the value of capital
+  expenditure projects.
+  It enables the business and its investors to compare projects so
+  that the business can expand and meet their objectives - usually
+  profit maximisation and efficiency.
+
+[The evaluation of an investment project to determine whether 
+or not it is likely to  be worthwhile.]
+
+Investment appraisal - planning process:
+  Investment appraisal is the planning process used to determine
+  whether the long-term investments will give the best return.
+  Typical project that may be assessed include:
+  - Purchasing new machinery
+  - Acquiring new premises
+  - Research and development projects
+
+Investment appraisal - decision making:
+  A business will have lots of ideas for projects, and proposals of
+  ways to grow their business.
+  The business will only have a finite amount of money and so 
+  perhaps only one project will get the funding it needs to go 
+  ahead. Investment appraisal is used to work out whicch project
+  should get the funds.
+
+3 methods for investment appraisal:
+  Payback
+  ARR
+  NPV
+
+1. Simple payback:
+  Simple payback is a financial metric used by individuals and 
+  businesses to evaluate investments.
+  It is a straightforward tool for quickly assessing the lenght 
+  of time it takes to recover an intitial financial outlay.
+  This method indicates how rapidly an investment generates 
+  sufficient cash flow to cover its original cost.
+
+  cost of investment / total cash inflow
+
+  A business needs to decide which project or proposal to invest
+  funds in.
+  It cannot afford all four so it will have a number of methods to
+  work out which one it should spend the money on.
+  The table starts at year 0 because this is the amount invested
+  in the project at the start.
+
+Alternate methods:
+-----------------------------------------------------------------
+				-   Project A	-   Project B   -
+-----------------------------------------------------------------
+Purchase price			- £225M		- £450		-
+Average yearly net cash flow	- £45M		- £75		-
+Simple payback			- 5 years	- 6 years	-
+-----------------------------------------------------------------
+
+
+Interpretation-payback period:
+  In payback period calculations, the aim is to determine how quickly an investment can recover its initial outlay.
+  A shorter payback period is generally preffered because it means the project returns the invested funds sooner.
+  Once recovered, these funds can be reinvested into other opportunities, increasing the overall efficiency and 
+  flexibility of capital use. This is particulalrly valuable in environments where liquidity is limited or where 
+  multiple investment options compete for funding.
+
+
+Advantages of payback method:
+- It is a simple method to calculate and understand.
+- It is particularly useful for business where cash flow management is vital.
+- Businesses can identift the point at which an investment is paid back and is contributing positively to cash flow.
+- It is also useful when new technology is introduced regularly.
+- Businesses purchasing equipment can calculate whether an investment "pays back" before an upgrade is available.
+
+Disadvantages:
+- It provides no insight into the profitability of investments.
+- Payback only considers the total length of time to recover an investment.
+- Neither is the timing nor the future value of cash inflows is considered.
+- It may encourage a short-termism approach.
+- Potentially lucrative investments may be dismissed, as they take longer to pay back than alternatives.
+
+
+ARR:
+  Accounting rate of return.
+  Payback is a very simplistic tool and only looks at when the project will pay back but does not consider rate of return.
+  So, a business can also use the ARR system which looks at tge average rate of return of the projects.
+  Businesses often compare ARR results a "hurdle rate" or benchmarks (e.g. the return from a 5% savings account, or a firm's 
+  cost of the capital.
+
+  AAR is a  method of investment appraisal that measures the net return per annum as a percentage of the intitial spending.
+
+  ARR = (Average anual profit / initial investment) x 100
+  The outcome of the formula is expressed as a percentage, which makes it easy to compare investment options.
+
+  Steps to follow for ARR calculation:
+    Step 1: Calculate the total profit over the lifetime of the investment
+    Step 2: Divide the total profit by the number of years of the investment project to find the average annual profit
+    Step 3: Divide the average annual profit by the initial outlay
+    Step 4: Multiply the outcome by 100 to find the percentage
+
+Pros of ARR:
+- Simple to calculate and easy to understand
+- Quick comparison of investment options
+- Long-term performance evaluation 
+- Useful in decision making
+
+Cons of ARR:
+- Ignores the time value of money
+- Limited to one metric
+- Reliance on estimates
+
+Interpretation - ARR:
+- We compare ARR to a benchmark;
+  e.g This could be the interest rate on savings, the firm's cost of capital, or a target return set by management.
+- If the ARR is higher than the benchmark, this project is financially attractive.
+- If the ARR is lower than the benchmark, the project may not be worth pursuing.
+
+22.11
+
+
+NPV:
+  Net present value, a method of investment appraisal that takes interest rates into account by caluclating the present value, 
+  discounted according to the interest foregone (given up).
+
+  Once a business has looked at the payback period for a set of projects and then looked at the ARR they may need to look at the NPV.
+  This is the net present value, and it considers that money in the future is not worth what it is today - so it adds in a discount
+  table to make it more realistic.
+
+-95
+10 x 0.83 = 8.3
+40 x 0.69 = 27.6
+40 x 0.58 = 23.2
+60 x 0.48 = 28.8
+50 x 0.40 = 20
+
+-95 + 8.3 + 27.6 + 23.2 + 28.8 + 20 = 12.9
+
+-80
+30 x 0.83 = 24.9
+40 x 0.69 = 27.6 
+30 x 0.58 = 17.4 
+30 x 0.48 = 14.4
+20 x 0.40 = 8
+-80 + 24.9 + 27.6 + 17.4 + 14.4 + 8 = 12.3 
+
+-160
+30 x 0.83 = 24.9 
+50 x 0.69 = 34.5
+90 x 0.58 = 52.2
+80 x 0.48 = 38.4
+60 x 0.40 = 24
+-160 + 24.9 + 34.5 + 52.2 + 38.4 + 24 = 14 
+
+  Interpretation NPV:
+    In NPV calculations, the goal is to identify the highest investment options that yields the highest future value of funds.
+    A positive NPV indicates that the investment is expected to generate more value than its cost, making it financially viable.
+    Conversely, a negative NPV suggests that the investment would result in a net loss and is therefore not advisable.
+
+  Advantages of NPV method:
+    It considers the opportunity cost of money,
+    Discount tables are used to calucalate the forecasted future values of net cash flows,
+    Businesses mey choose different discount tables (20%, 10%, 50% etc.) to ajust the level of risk involved in a project, allowing
+    a range of scenarios to be considered.
+
+  Disadvantages of NPV:
+    It is more complicated to calculate and interpret that other methods of investment appraisal.
+    One of the primary challanges of using the NPV method is accurately forecasting future cash flows.
+    Selecting an appropriate discount rate can be challenging, and even small changes in the discount rate can significantly impact
+    the calculated NPV.
+    The NPV method only considers the financial costs and benefits of a project and does not account for non-financial benefits or costs,
+    e.g. environmental damage.
+
+
+Limitations of Investment appraisal:
+  Each of the investment appraisal techniques relies upon forecasted future cash flows, which may lack accuracy.
+  Long term cash flow forecasts can be inaccurate for several reasons: Unexpected increases in costs, the arrival of new competitors, 
+  changes in consumer tastes, uncertainties dues to economic growth or recession.
+  Factor other than the cost of investment and the return on investment are not considered.
+
+-400 000
+170 000 x 0.962 = 163540
+170 000 x 0.910 = 154700
+170 000 x 0.869 = 147730
+170 000 x 0.809 = 137530
+
+-400000 + 163540 + 154700 + 147730 + 137530 = 203 500
+
+-800 000
+600 000 x 0.971 = 582600
+600 000 x 0.899 = 539400
+600 000 x 0.820 = 492000
+600 000 x 0.750 = 450000
+
+-800000 + 582600 + 539400 + 492000 + 450000 = 1 264 000
+
+
+
+
+
+
+

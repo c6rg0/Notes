@@ -1,0 +1,76 @@
+1. The fight or flight response enabled our ancestors to survive 
+  but can be less helpful in response to more modern stressors 
+  explain how the body responds during fight or flight and why this
+  could be helpful in a driving test situation (4 marks) 
+
+The fight or flight response is a trigger to the sympathetic 
+nervous system (which is a part of a greater system - autonomic
+nervous system), in which the body produces adrenaline and 
+noradrenaline in anticipation to a percieved threat. Common 
+symptoms are hightened awareness, increased blood flow to muscles,
+racing heart and shortness of breath. An advantage of the FOF 
+response during a driving test is highened alertness. Considering
+that you're still a relatively new driver, you might be unaware 
+of the common threats and risks of the road, especially when
+compared to the average driver with more experience, so with
+extra (consideration to your) spacial awareness, there is a smaller
+chance of making a careless mistake.
+
+2. Describe the divisions of the nervous system. (6 marks) 
+Centeral, peripheral -> (Autonomic -> sympathetic, parasympathetic)
+, (Somatic -> sensory, motor)
+
+The central nervous system is the main nervous system in the body, 
+it connects all other systems to it, and it composes of the brain, 
+brain stem and spinal cord. Its main role is to control movement,
+and recieve signals from across the body. Connected to the CNS is
+the peripheral nervous system (peripheral meaning situated just
+outside - keyboard and mouse is a "peripheral"). It consists of all
+the nerves that lie outside of the CNS. 
+
+The PNS can be split furter into two groups, the autonomic and 
+somatic nervous systems. The autonomic nervous system is 
+responsible for the automatic functioning of internal bodily 
+functions. The autonomic can be split into two children (since
+they're both at the bottom of the nervous systems tree). The 
+sympathetic nervous systems role is to activate the fight or flight
+(and freeze) response in response to percieved danger, and to tell
+the adrenal glands to produce the required hormones (adrenaline +
+noradrenaline). The parasympathetic does the opposite, the 
+sympathetic nervous system also turns off certain functions, such
+as digestion, which need to be running after the FOF response, it's
+role is to stabalize the body, and return it to its idle state.
+
+Going back up the tree and across, there lays the somatic nervous 
+system. The somatic nervous systems role is to control motor and 
+sensory function, those are also the names of the last two nervous
+systems; the sensory and motor nervous systems. The sensory nervous
+system uploads data from touch receptors, and sends the information
+to the brain/CNS. The motor nervous system controls movement and
+coordination, with the use of sensory input, the brain sends
+impulses to the specific muscles to move.
+
+
+3. Explain the process of synaptic transmission. (4 marks) 
+
+Synaptic transmission is the process by which neurons communicate
+with one another by sending chemicla signals, named 
+neurotransmitters accross the synaptic cleft (a small gap).
+The process of synaptic transmission goes as followed; an 
+electrical impulse travels down to the axon of the presynaptic
+neuron until it reaches the terminal end, the arrival of the 
+"action potential" triggers voltage-gated calcium channels to open,
+allowing calcium ions to enter the cell. This entrance of calcium
+causes synaptic vesicles - which contain neurotransmitters - to 
+fuse with the presynaptic membrane and their contents are released
+into the synaptic cleft (the small gap mentioned at the beginning).
+Neurotransmitter molecules diffuse accross the synaptic cleft and
+bind to specific receptor sites on the postsynaptic neuron (beyond
+the cleft). The binding of the neurotranmitter to the receptor
+activates the postsynaptic neuron, causing it to generate an
+electical signal - the signal can be excitatory or inhibitory.
+To stop any more stimulation, neurotransmitters are taken away
+from the synaptic cleft through enzymatic destruction or reuptake
+by the presynaptic neuron.
+
+

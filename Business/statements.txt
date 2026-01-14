@@ -1,0 +1,85 @@
+Interpretation of financial statements:
+
+Statement of comprehensive income:
+This used to be called the profit and loss account, so if you are googling for revision you may need to know that. This is part
+of the legal documents that must be published each year by ltd or plc companies.
+This document shows if the business has made a profit or a loss during the year.
+
+SOCI is also known as a profit and loss statement.
+
+Sales revenue is money into the business that occurs from ordinary trading. It is also known as turnover or income.
+Formula for sales revenue is:
+Q x P (where Q = quantity and P = price)
+
+Cost of sales is also known as good sold or COGS/COS.
+If the business eslss frozen food, then the rest of the sales will be all the frozen food it buys in from other manufacturers to
+sell at a profit.
+
+Gross profit = Revenue - cost of sales,
+Gross profit figures are used by the managers of the business to judge which products or services are the most profitable.
+
+Expenses are costs to the business that have nothing to do with stock or the making of the product.
+Examples are:
+	administration,
+	adveritising,
+	petrol,
+	insurance
+
+Operating profit = Gross profit - Expenses
+Operating profit is a true measure of how much profit (or loss) the business has made over the year (before tax is deducted).
+This information is used by potential investors of the business to see how hard their money would work if it was invested into the
+business.
+
+----------------
+
+Revenue
+Cost of sales -> Opening stock
+		 Purchases 
+		 Closing stock
+		 Cost of sales
+Gross profit
+Expenses
+Operating profit
+----------------
+
+-----------------
+Sales
+- Cost of sales
+Gross profit
+- Admin expenses
+Operating Profit
++ Net interest
+Profit before tax
+- Taxation
+Profit after tax
+-----------------
+
+Stakeholder interest in SOC:
+Shareholders - want to know the final profit fiure which dividends will be paid out on,
+Investors - want to know the profitability of the business - is it worth investing or will it be a risk?
+Employees and manager - may wish to know the expenses of the business.
+
+Statement of financial position (SOFP):
+A statement of financial position (SOFP) is the other document that needs to be published as part of the annual business accounts.
+This document used to be called the balance sheet, and shows what the business owns and owes on one day of the year.
+
+Assets = Liability + Capital
+The two sides must be balanced (as the money has not been dissolved), hence the term balance sheet.
+For example, in a cafe business, the owner may buy an over at the start. This is a fixed asset and its value will be shown on
+the SOFP.
+
+Key information on a statement of financial position:
+- Current assets
+- Non-current assets
+- Current liabilities
+- Long-term liabilities
+
+Non-current assets:
+Fixed assets are items that a business owns but that will pay the business back after 1 year.
+
+Current liabilities:
+These are items that the business owes, that need to be paid by the business within 1 year.
+
+
+
+

@@ -1,0 +1,59 @@
+A correlation is a statistical technique used to investigate 
+and measure the relationship or associtation between two 
+variables which are also called co-variables.
+It tells how strongly variables are related
+The variables are simply measured, not manipulated like in 
+experiments.
+Only an association is found, no cause-and-effect relationship
+is found hence the terms IV and DV are not used.
+
+A correlation co-efficient is a nunmber that once statistically
+calculated, can determine the strenght of a relationship 
+between co-variables.
+This does not mean that one variable is causing another, but 
+that there is a relationship of some sort.
+The number will range from -1 to +1.
+Negative is -1 to 0, and positive 0 to 1.
+Strong correlations are (-)0.5 above or below, so weak are -0.5
+to 0.5.
+
+Positive correlation - As one variable increases, so does the 
+other. On a scattergram, a positive correlation will show an 
+increase from the bottom left. The line of best fit has a 
+positive gradient.
+
+Negative - As one variable increases, the other decreases.
+On a scattergram, a negative correlation will show a decrease 
+from the bottom left. The line of best fit has a negative 
+gradient.
+
+Zero correlations - Where there is no relationship between the
+co-variables.
+On a scattegram, no correlation (or a very weak correlation) 
+will appear as random dots plotted, with no direction. No line
+of best fit can be drawn as the point on the scattegraph are 
+random.
+
+Strengths: 
+- Research opportunities
+- Ethical 
+- Quick and economical
+
+Limitations: 
+- Causation
+- Lack of control
+
+Curvilinear relationship:
+As one variable increases, so does the other but only up to a
+certain point after which as one variable continues to 
+increase, the other begins to decrease. On a graph this forms 
+an inverted U shape.
+An example of such a relationship is shown by the Yerkes-Dodson
+law.
+
+A coefficient of 0.34 concludes that there is a weak positive 
+correlation between the hours spent playing video games and the
+number of nightmares, and for it to be a strong correlation, it
+would have to be above 0.5 (or below -0.5). 
+
+

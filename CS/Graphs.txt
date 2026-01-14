@@ -1,0 +1,40 @@
+Graphs (12/9/25):
+
+A graph is an abstract data structure representing complex 
+relationships.
+
+Vertices:
+Vertices are the fundamental units of the graph. 
+Sometimes, vertices are also known as vortex or nodes. 
+Every node/vertex can be labeled or unlabelled.
+
+Edges:
+Edges are drawn or used to connect two nodes of the graph. It can 
+be ordered pair of nodes in a directed graph. Edges can connect 
+any two nodes in any possible way. 
+Sometimes edges are also called arcs.
+
+Undirected Graph: 
+There are no arrows on the edges indicating direction.
+
+Weighted graph:
+A graph in which the edges are alreadt specified with 
+suitable weight.
+
+Representing a graph:
+A graph can be implemented in one of two ways:
+- Adjacency matrix
+- Adjacency list
+
+- Insertion or deletion of nodes in a graph
+- Insertion or deletion of edges
+- Searching in the Adjacency
+
+
+
+
+
+
+
+
+

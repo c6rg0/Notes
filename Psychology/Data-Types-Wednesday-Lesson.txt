@@ -1,0 +1,110 @@
+
+Open up the PowerPoint lesson on Data Types. This is found in 
+the Research Methods folder under class work. You must 
+write/type notes on this and complete the questions on the 
+slides. Remember to also add more information to the work by 
+looking through the core textbook to help with having a clear 
+understanding of the different data types.
+
+In order to be marked in for the lesson, you must send me a copy 
+or photo of your notes by the end of the day - 16:30pm.
+
+
+Learning Outcomes:
+
+1. Distinguish between qualitative and quantitative data,
+2. Explain the difference between primary and secondary data,
+3. Evaluate the different types of data.
+
+
+Quantitative data is numerical data that can be statistically 
+analysed and converted into a graphical format.
+Experiemnts, structured observations, correlations and closed/rating
+-scale experiments all produce quantitative data.
+
+Strenghts:
+- Easy to analyse
+- Reliable
+
+Limitations:
+- Lacks insight
+- Oversimplified
+
+Qualitative data is non-numerical, language-based data expressed in
+words.
+This is collected through semi-structured or unstructured interviews
+and open questions in a questionare. It allows researchers to
+develop an insight into the unique nature of human experiences,
+opinions and feelings.
+
+Strenghts:
+- Rich
+- Ideal for theory development
+
+Limitations:
+- Hard to analyse
+- Generalisability (may not fully represent)
+
+Primary data refers to data that has been collected for a specific 
+reason and for the purpose of an investigation.
+It is data that the participant reports directly to the researcher
+or is witnessed firsthand by the researcher.
+
+Examples: participants keep diaries about stress and submit them
+to the researcher after a week, participants estimate the speed of a
+vehicle during a crash, participants complete a memory test.
+
+Stengths:
+- Relevance
+- Fit for purpose
+
+Limitations:
+- Time consuming
+- Generalisability (may not fully represent)
+
+Secondary data is information that was collected by other 
+researchers for a purpose other than the investigation in which it
+is currently used. In other words, it is data that already exists.
+
+Examples: participatns find their old school reports and 
+provide them to the researcher for analysis, researchers conduct
+a content analysis using old newspaper articles, a meta-analysis
+is done of the studies that used the strange situation.
+
+Strenghts:
+- Quick
+- Representative (more likely to apply to wider groupd)
+
+Limitations:
+- May not be relevant
+- Not fit for purpsose
+
+Knowledge check:
+
+Which of the following is an example of qualitative data:
+(B) A participant's written description of a traumatic event,
+(correct)
+
+Primary data is best described as:
+(C) Data that is collected first-hand by the researcher for a 
+specific investigation,
+(correct)
+
+Which of the following is a limitation of quantitative data?
+(C) It lacks depth and may not reveal participant meaning,
+(correct)
+
+Exam-style question:
+Qualitative data is language based data in words, which is often
+used to describe something. Quantiative data is numerical and can
+be expressed on a graph, commonly used to count the frequency of
+something. The interviews that the psychologist runs with 
+participants about their experiences of social anxiety is going
+to make qualitative data because the participants are going to 
+explain/describe the "qualities" of their anxiety. The recording
+of the number of times each participants avoids social events in 
+a month is going to be quantitative because it involves numerical
+values that can be measured, as well as analysed.
+
+
+

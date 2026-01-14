@@ -1,0 +1,26 @@
+Algorithms for main data structure:
+
+Depth-first traversal:
+In depth-first traversal, when a route is considered, nodes are
+followed until the bottom is reached. When there are no more 
+nodes in a route, the route is backtracked, i.e. visiting the same
+nodes in reverse. When all the unvisisted nodes are traversed in 
+a route, the next route is considered. Usually, the traversal
+starts from the leftmost route.
+Depth fiest traversal is implemented using a stack. Both recursive
+and non-recursive approach may be used.
+
+Breadth-first traversal:
+In breadth-first traversal, the neighbours of a node are visited
+in order. This search starts from the source. The neighbours
+of the first node are visited, and so on. This traversal takes
+place layerwise.
+Breadth-first traversal is implemented using a queue.
+
+Tree-traversal:
+- A depth-first traversal of trees is the pre-order traversal of 
+  trees. Similar to graphs, this may also be implemented using
+  stacks.
+- A breadth-first traversal of trees is implemented using a queue.
+
+

@@ -1,0 +1,51 @@
+Decision making trees:
+
+A decision making tool showing the possible outcomes of a decision with the estimated probability and expected monetary value of each of 
+these outcomes.
+
+A business can't afford to follow every option so it may use a decision tree diagram to analyse the probability of a success in a choice of
+strategies (a new product launch, a new marketing campaign).
+
+How the decision tree works:
+  A decision tree traces and alternative outcome of a decision, the results can be compared, and the business can decide which option would
+  be the most profitable.
+  This is a quantative approach (means it uses numbers) it is pictorial as its in the shape of a tree and it predicts the best bet outcome,
+  so a business knows what to spend its money on.
+  The data is usually based on historical data from the business, for example they would know the probability of success of launching a new 
+  product would be 20% based on previous launches and how well thet had turned out.
+
+Set by step decision tree walkthrough:
+- Start with a decision point:
+  It all starts with a decision point, which is a square, this may be empty, say "A" or "1", and it appears at the start.
+  A decision needs to be made by the business at this point, there may be more decision points in the diagram, and they are always a square.
+
+- Add in two decisions to make:
+  Now the business must decide between the courses of action, there will (obviously) be more than one.
+  
+- Add chance nodes to the decisions:
+  Each decision that the business makes may result in a number of outcomes. This is shown using a chance node which is always round.
+  (at the moment, the diagram should have a square on the left, two lines coming out of the right side horizontally, and nodes attached to 
+  the end of those two lines)
+
+- Add probability data:
+  Now the success of failure (variations) probability data can be added to the diagram (you will be given this data in a question).
+  (The 2 nodes now have 2 possibilities each, so 4 possibilities in total - success or failure with percentages - attached, still going 
+  right)
+
+- Add the expected profit or loss from each decision
+
+- Calculate expected outcome:
+  (Probability2 * Final payoff) + (Probability2 * Final payoff)
+
+- If the cost of the project is also known, you can add it to your calculation.
+
+Limitations:
+1. Decision trees are based on predicted data of the potential imapct of a decision.
+2. Decision tree does not consider unforeseen costs and circumstances.
+3. Probabilities and net outcomes are all estimates.
+4. Using decision trees might fit with the culture exhibited by the business but this is unlikely to be overriden by the need to act quickly,
+   which would suggest the decision trees are not that useful in some situations.
+5. Large degree of uncertainty about any situation that a decision tree might be used for, so the benefits of adding numbers to uncertainty.
+
+
+

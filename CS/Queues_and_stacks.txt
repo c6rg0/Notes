@@ -1,0 +1,43 @@
+Queues:
+- Last in first out, new items are put in the back of the queue, and the first are taken out.
+ 
+  Types:
+- Circular
+- Linear
+- Priority
+
+  Applications:
+- Output waiting to be printed is commonly stored in a queue on a disk.
+- Characters typed at a keyboard are held in a queue in a keyboard buffer.
+
+  Operations:
+- Push
+- Pop
+- Peep/top view
+- isEmpty
+- isFull
+
+- Breadth first search?
+
+
+Stacks:
+- First in first out, new items are put on top of the stack, and the newest item gets taken off.
+
+  Applications:
+- Used to hold return addresses when subroutines are called.
+- When you use the undo button, the last operation you carried out is popped from the stack and undone.
+
+  Implementation:
+- A stack can be implemented as either a static or dynamic data structure.
+- 
+  Operations:
+- 
+
+- Depth first search
+
+
+
+
+
+
+

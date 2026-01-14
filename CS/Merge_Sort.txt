@@ -1,0 +1,8 @@
+- The merge sort is more efficient than the bubble sort.
+- The steps are:
+    - Divide the unsorted list into n sublists, each containing
+      one element.
+    - Repeatedly merge two sublists at a time to produce new
+      sorted sublists until ther is only one sublist remaining.
+      This is the sorted list.
+

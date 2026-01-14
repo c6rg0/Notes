@@ -1,0 +1,50 @@
+Specification 									Notes made	Ready for knowledge check?
+1. Divisions of the nervous system						yes		nearly
+2. Structure and function of sensory, relay and motor neurons. Synapic 		yes		no
+transmission, neurotransmitters, exhitation and inhibition.
+3. Function of the endocrine system; glands and hormones.			yes		need to remember more detail
+4. Fight or flight response, including the role of adrenaline			yes		need to remember more detail
+5. Localisation of function in the brain					yes		yes
+6. Plasticity and functional recovery after trauma				yes		nearly
+7. 
+
+
+Key terms:
+Nervous system - The system responsible for controlling the body and comprehending external stimuli
+Central nervous system - Brain, brain stem and spine
+Peripheral nervous system - The nervous system outide of the CNS
+Somatic nervous system - Consisting of the motor and sensory nervous systems,
+Autonomic nervous system - Consisting of the sympathetic and parasympathetic nervous systems,
+Endocrine system - The system responsible for the production of hormones
+Gland - An organ (?) that secretes hormones
+Hormones - Chemicals which control the activity of internal bodily functions
+Fight or flight response - The increase of heart rate and 
+Adrenaline - A hormone responsible for the fight or flight response, incresaes arousal
+Neuron - Cells which conduct electrical charge across the body to revieve and send information 
+Sensory neurons - neurons which can detect tactile external stimuli
+Relay neurons - neurons which act as a means to...
+Motor neurons - neurons which are able to move on command from the brain/CNS or relfex
+Localisation of function - The study of where in the brain certain functions are located
+Motor area - Area responsible for movement
+Somatosensory area - Area responsible for comprehending touch 
+Visual area - Area responsible for processing visual information
+Auditory area - Area responsible for producing, processing and understanding sound
+Broca's area - Responsible for speech production
+Wernicke's area - Responsible for speech comprehension 
+Plasticity - The brains ability to adapt and be molded
+Functional recovery - Positive plasticity and repair to damage 
+Hemispheric lateralisation - The research put into finding out the differences between the left and right hemishpere of the brain. 
+Split-brain research - Experiments involved in removing the corpus collum and detaching the left and right sides of the brain from each other.
+fMRI - Using blood flow in the brain to determine activity (and that's being done using haemoglobin)
+EEG - Measuring brian activity in terms of brain waves
+ERPs - Using a EEG to determine the location of function using experiments and tasks 
+Post-mortem examination - The examination of a participantss brain after death
+Biological rhythms - Rhyhtms that control bodily functions
+Circadian rhythm - A rhythm that lasts 24 hours (sleep/wake cycle)
+Infradian rhythm - A rhythm that lasts less than 24 hours 
+Ultradian rhyhtm - A rhythm that lasts more than 24 hours
+Endogenous pacemakers - Internal pacemakers (superchiasmatic nucleus)
+Exogenous pacemakers - External cues which affect the bodies internal clock (sunlight, temperature)
+Sleep/wake cycle - A circadian rhythm that controls when we sleep and wake up
+
+

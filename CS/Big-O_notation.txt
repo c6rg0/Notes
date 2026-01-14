@@ -1,0 +1,27 @@
+Big O notation:
+
+Big O gives us a worst-scenario for the runtime of an algorithm.
+
+We measure as algorithm based on the size of the data set that it
+inputted to it.
+The data could be as small as a set containing one binary digit,
+to a set containing all of the words from every language in the
+world.
+In most cases, as the data set increases in size, so does the 
+runtime.
+
+Big O is written as a function, like this:
+	O(n)
+In this instance, the run time of the algorithm is directly
+proportional to the size of the input. So an input size of 10 
+would have a runtime of 10; an input of 20 would have a runtime
+of 20.
+	O(2n)
+Here, the runtime will always be twice the size of the input data.
+An input size of 10 would have a runtime of 20.
+
+Different algorithms produce runtime values of radically varying
+quantities.
+The adjacent graph highlights how changing the size of an input
+set affects the runtime for five key types of algorithms.
+

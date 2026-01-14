@@ -1,0 +1,40 @@
+Recap Network analyses/Critical path analyses:
+
+1. What is meant by 'Critical Path Analysis':
+Critical path analysis is a method of determining which path
+should be avoided or not.
+
+2. What are the benefits of drawing critical paths?
+   Stakeholders will be able to see the total time fram for
+   the project to be completed,
+   Parallel activities can be scheduled,
+   It's useful to know when to deliver resources or arrange 
+   for labour to arrive.
+
+3. What is the difference between the terms ‘Simultaneous’ 
+   and ‘Sequential’?
+   Simultaneous - All at once
+   Sequential - In sequence
+
+4. Can you give another name for ‘Critical Path’? 
+   Network diagrams,  
+
+5. What do you refer to as ‘Float Time’?
+   
+
+6. What’s the formula to calculate ‘Float Time’?
+
+
+7.What is a node?
+
+
+8. How do you calculate your EST? Where do you start from?
+
+
+
+2. a:
+EST = 3
+LFT = 3
+Critical path: B -> E -> G -> H
+
+

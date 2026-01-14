@@ -1,0 +1,41 @@
+Trees:
+
+Abstraction:
+- A tree is a common abstract data type (ADT)
+	- Like a tree in nature, a tree data structure has a root,
+	  branches and leaves.
+	- The difference is that in computer science, the trees
+	  root is at the top.
+
+A tree is a connected, undirected graph with no cycles (there is
+no unique path from each node to any other node).
+
+
+Traversing a binary tree:
+- Pre-order: Visit the root, then traverse the left sub-tree, then
+  the right sub-tree.
+
+- In-order: Traverse the left sub-tree, then visist the root, then
+  traverse the right sub-tree.
+
+- Post-order: Traverse the left sub-tree, then traverse the 
+  right-tree, then visit the root.
+
+
+A balanced binary tree:
+- A balanced tree is one where the nodes are ditributed in such a 
+  way that the height is kept to a minimum.
+	- This allows more effiecient searching.
+
+- A binary tree may be represented as an array of records, or a 
+  two dimensional list.
+- A pointer can be used to indicate if there is or isn't a subtree
+  on a (certain) side.
+
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+Critical path analysis:
+
+CPA is a management tool which helps a business to identify how long a project will take and what the critial tasks in that project are.
+The diagrams are called network diagrams, as they show a network of tasks in a project.
+
+EST (earliest start time) - earliest possible moment that a task
+can begin.
+LFT (latest finish time) - the opposite of the above.
+Float = LFT - Duration - EST from previous node 
+
+Uses of CPA:
+- To schedule a building project.
+- To launch a new product onto the market,
+- Organise a photo shoot of the new product. This would not happen on day one so a schedule would be usefull so bookings can be made,
+- Plan the installation of new technology in a business (e.g. a new server),
+- Plan the renovation of old buildings,
+- Schedule and plan advertisement campaigns.
+
+Benefits of using CPA:
+- Stakeholders will be able to see the total time frame for the 
+  project to be completed.
+- Parallel activities can be scheduled.
+- Very usefull for businesss in the FMGG (Fast Moving Consumer
+  Goods) markets where speed is important.
+- Usefull to know when to deliver resources or arrange for labour
+  to arive.
+
+Limitations of CPA:
+- All the data in the network diagram are based on estimates and
+  can quickly become inaccurate (e.g. if the weather turns bad on
+  a building project or suppliers fail to turn up with a delivery).
+- Drawring up a diagram and making all the calculations is time 
+  consuming - it may be quicker to just get on with the project
+  and tackle events as they arise.
+- The project may be simple and not require a diagram.
+
+
+

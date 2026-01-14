@@ -1,0 +1,13 @@
+1:
+(a) BMW VW Volvo Lada Audi
+     0   1   2    3    4
+
+(b) Lada Audi Skoda
+     0    1     2
+
+(c):
+i       queue = ["Lada", "Audi", "Skoda"]
+	queue.add("Rolls")
+
+ii      queue = ["Lada", "Audi", "Skoda", "Rolls"]
+	queue.remove()? 

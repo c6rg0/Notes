@@ -1,0 +1,24 @@
+Linear search:
+- The only systematic way of finding out is to look at each card, 
+  starting with the first card, until you find your item.
+
+Binary search:
+- The binary search is a very efficient way of searching a sorted
+  list.
+  Steps:
+    - Examine the middle item in the list,
+    - If this is the one you're searching for, return the index,
+    - Elimenate half the list, depending on whether the item being
+      sought is greater or less than the middle item,
+    - Repeat until the item is foudn or is proved to be not in the
+      list.
+
+Merge sort:
+- The merge sort is more efficient than the bubble sort.
+- The steps are:
+    - Divide the unsorted list into n sublists, each containing
+      one element.
+    - Repeatedly merge two sublists at a time to produce new
+      sorted sublists until ther is only one sublist remaining.
+      This is the sorted list.
+
