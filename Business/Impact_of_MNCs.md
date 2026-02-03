@@ -58,7 +58,7 @@
 ## Wages
 - Two arguments for the impact of MNCs on wages of employees 
   in host nations.
-- The first is hat MNCs tend to pay higher than local 
+- The first is that MNCs tend to pay higher than local 
   businesses, making it hard for these local enterprises to
   attract good staff as they are unable to compete with the 
   wages.
