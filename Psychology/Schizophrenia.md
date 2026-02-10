@@ -172,6 +172,14 @@ than before.
   concordance rates, therefore demonstrating that there are 
   environmental influences acting on the development of SZ.
 
+- Tienari (2004) studied the biological children of 
+  schizophrenic mothers who had been adopted. It was found 
+  that 5.8% of children adopted into psychologically healthy
+  families developed schizophrenia compared to 36.8% of 
+  children raised in dysfunctional families. This suggests
+  a genetic basis, however difference between groups also 
+  suggest a role to play for psychological factors.
+
 ## Schizophrenia and Genetics
 - Schizophrenia is thought to be polygenetic, with lots of 
   different genes contributing to an increased risk of 
@@ -266,7 +274,13 @@ than before.
   hypodopaminergia in different areas of the brain 
   contribute to the development of SZ.
 
-- Hyerdopaminergia in the fronal lobe, and specifically 
+- The dopamine hypothesis came about from observations that
+  dopamine releasing drugs such as L-dopa can produce
+  schizophrenic like symptoms in healthy patients. Also that
+  anti-psychotic drugs like phenothiazine decrease symptoms
+  of schizophrenia and reduce dopamine levels.
+
+- Hyperdopaminergia in the fronal lobe, and specifically 
   Broca's area which may have an excess of D2 receptors, 
   may be responsible for the positive SZ symptom of auditory
   hallucinations, due to the overactivity of neurotransmission
@@ -291,9 +305,162 @@ than before.
   explaining schizophrenia at quite a simplisitic level of
   explanation. The role of upbringing, learning and empotions
   is not considered, weakenign this as a full explanation.
+- Research using CT scans by Johnstone (1976) first identified
+  people with schizophrenia had larfer than average 
+  ventricles. Suggesting this structural difference may be 
+  linked to the cause of schizophrenia.
+- However, as these ventricle size studies are based on 
+  correlational research it's difficult to determine if there
+  is a casual relationship, or a 3rd factor linked to both
+  the enlarged ventricles and schizophrenia, such as
+  enlarged ventricles being the side effect of medication.
 
 ## Evaluation of dopamine
-- Curran at al (2004) found that dopamine
+- Leueht et al conducted a meta-analysis review of 212 
+  studies. These studies assessed the effectiveness of 
+  biologicl anti-psychotic drug treatments that work
+  via normalising levels of dopamine. Results demonstrated
+  these drugs were more effective than a placebo. The
+  effectiveness of treatments that influence the dopamine
+  system suggest that the underling biological theory of
+  schizophrenia's cuase has validity, otherwise the drugs
+  would not be effective.
+
+## Evaluation of the biological explanation
+- A biological approach to explaining schizophrenia, such as
+  genetic basis assumes that schizophrenia is inevitable, or
+  biologically determined. Potentially making sufferers
+  feel disempowered when diagnosed. Other more psychological
+  approaches such as the cognitive approach has a soft
+  determinist perspective suggesting that mental processes
+  can be altered or managed via free will to control the 
+  disorder.
+
+- Explaining schizophrenia at the basis cellular and chemical
+  level has the advantage of the scientific principle of 
+  parsimony (preffering the theory with fewer assumptions)
+  this biologically reductionist approach fails to consider
+  evidence for the range of psychological aspects of 
+  schizophrenia such as expressed emotion seem to have a large
+  influence on the development and relapse of the disorder.
+
+- A full, holistic explanation of schizophrenia would consider
+  the diathesis stress approach in which the root casue of
+  the disorder is genetic, however a environmental stressor
+  such as family triggers the disorder.
+
+# 
+# Psychological explanations
+
+## Dysfuncional family
+- *The schizophrenogenic mother* is a psychodynamic theory 
+  that suggests people with schizophrenia get their paranoid 
+  delusions as a result of influence of a cold, rejecting 
+  and controlling mother and a passive father. She creates an
+  atmosphere of stress, tension and secrecy in the family.
+  This atmosphere triggers psychotic thinking.
+
+- *Double bind theory* suggests the child gets mixed messages 
+  and feels unable to do the correct thing. For example,
+  being told they need to be more independent, but being 
+  overprotected and receiving criticism when they attempt
+  to be independent. Bateson (1972) suggests this results
+  in disorganised thinking and paranoia.
+
+- *Expressed emotion*: Verbal interactions the caregiver has
+  with the person with schizophrenia. 
+  - Exaggerated involvement, indicating the sufferer is a 
+    burden via self sacrifice, "I do so much for you, it's 
+    hard for me".
+  - Criticism and control of the sufferers behaviour, "you
+    don't know how to do anything, you need to listen to me
+    more and do as you are told".
+  - Hostility towards the sufferers, physical, verbal or
+    emotional suggesting rejection, "you're a total waste of
+    space".
+
+## Evaluation:
+- Butzlaff and Hooley (1998) showed using a meta-analysis
+  of 27 studies that relapse into schizophrenia is 
+  significantly more likely in families that have issues with
+  expressed emotion.
+- Supporting research on the influence of family dysfunction
+  comes from Tiernari (2004) whoc studied the biological
+  children of schizophrenic mothers who had been adopted.
+  This suggests that the interpersonal family environment
+  has a significant impact on the development of schizophrenia
+  in genetically vulnurable people.
+
+
+## Cognitive explanations
+- Cognitive explanations for schizophrenia are based on the 
+  assumption that the ability to process thoughts is
+  dysfunctional. Firth-s (1979) *"attention deficit theory"*
+  suggests schizophrenia is due to a *faulty attention 
+  system* unable to filter preconscious thought and gives too
+  much significance to the information that would usually
+  be filtered, therefore overloading the mind. This accounts
+  for positive symptoms like hallucinations/delusions.
+- Firth also suggests the ability to suppress and override
+  automatic actions and speech and make deliberate actions
+  to achieve goals (*central control*) is sometimes faulty in
+  schizophrenic patients.
+  For example such as seeing a door handle, there may be
+  an automatic urge to open the door. The schizophrenic
+  patient could have difficulty explaining the reason,
+  resulting in delusions. Speech derailment can also be 
+  explained by the inability to resist expressing automatic
+  thoughts.
+- The ability to identify your own thoughts and actions as 
+  your own by paying attention to them is 
+  *meta-representation*. Faults in this system results in 
+  delusions of control, the feeling that your own actions 
+  are being created by an outside force.
+
+## Evaluation of cognitive explanations
+- Firth (1992) supported these ideas with biological/
+  cognitive neuroscience studies. 30 schizophrenia patients
+  with various symptoms had PET scans. These scans
+  indicated a reduction in blood flow in the frontal cortex
+  with patients with negative symptoms like *avoilition* and
+  the inability to suppress automatic thoughts. Also, the
+  scans showed increased activity in an area of the temporal
+  love responsible for the retrieval of memories with 
+  patients with reality distortion. This *suggests* that there
+  are biological differences in schizophrenics brain regions
+  associated with the theorised cognitive processes.
+
+- Stirling et al (2006) conducted the Stroop test on 30
+  patients with schizophrenia and 18 control patients.
+  This involved naming the ink colours on words without
+  saying the word. This is difficult as there is a desire 
+  to say the words that needs to be controlled. Stirling 
+  found that patients with schizophrenia took twice as long
+  to name the colour as the controls. This suggests that
+  patients with schizophrenia do have dysfunctional
+  thought processing, in this case with faulty central 
+  control.
+
+- Family therapy reduces expressed emotion in families, this
+  had been demonstrated to be an effective intervention
+  and supports the family dysfunction argument.
+- As cognitive therapy for psychosis can be an effective
+  treatment this indicates that cognitive factors are 
+  involved in the disorder.
+- It is socially sensitive to suggest that schizophrenia is
+  caused by the family, parents are already dealing with
+  the difficulty of their relatives behaviour. Theorists
+  may be adding additional stress and anxiety by making the
+  family think they're responsible.
+- impossible to demonstrate cause and effect: It could be
+  that schizophrenia of the child and associated behaviour is
+  the cause of the family dysfunction.
+- There is a significant ammount of research evidence that
+  schizophrenia has a biological cause such as genetics
+  (Gottesman) and neurotransmitters (Leueht) family 
+  dysfunction might act as a trigger but it can be argued
+  the basic cause is biological.
+
 
 #
 # Treatment of schizophrenia
@@ -780,6 +947,9 @@ than before.
     dyskinesia)
 
 - Conclusion:
+
+### Describe and evaluate one or more biological explanations
+### for schizophrenia (16 marks).
 
 
 
