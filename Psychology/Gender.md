@@ -175,4 +175,114 @@
   (half and half).
   
 
+# Chromosomes and hormones
+- Chromosomes are thread-like structures located inside the
+nucleus of animal and plant cells.
+- Each chromosome is made up of DNA tightly coiled many times
+  around proteins called histones that support its structure.
+- DNA contains the specific instructions that make each type
+  of living creature unique.
+- Males and females differ in a pair of chromosomes known as 
+  the sex chromosomes.
+
+- Each person has 23 pair of chromosomes. Each of these pairs 
+  carry hundreds of genes containing instructions on physical 
+  and behavioural characteristics.
+- One pair fo chromosomes (23rd pair) are called the sex 
+  chromosomes, because they determine an individual's sex.
+- There is a direct link between an individual's chromosomal sex (XX or XY) and their external
+  and internal genetalia.
+- Biology explains how an individual acquires their sex genetically. It may also explain some 
+  aspects of gender becuase people 'feel' masculine or feminine in part because of the 
+  genetalia they have.
+
+- Hormones are chemicals released by glands that are responsible for regulating vital bodily functions,
+  such as growth, metabolism and mood.
+- Testosterone is the main male sex hormone that is involved in the development of male sex organs and
+  secondary sexual characteristics, such as increased muscle growth and bone density.
+- Estrogen is the primary female sex hormone responsible for the development of female reproductive organs 
+  and secondary sexual characteristics.
+- Oxytocin is a hormone and neurotransmitter produced by the hypothamulus and released by the pituary gland
+  that is involved in childbirth, lactation and social bonding.
+
+## Hormones
+- Chromosomes initially determine a person's sex but gender development is governed which are produced both
+  prenatally and in puberty.
+- Hormones influence the development of genitalia and/or affect the development of the brain, both of which
+  have an influence on gender behaviour.
+
+- Testosterone:
+  - As a male hormone, which develops the male sex organs during foetal development.
+  - Testosterone has an affect on brain development prenatally and also later in childhood.
+  - During puberty, there is a surge of testosterone which causes secondary sexual characteristics.
+  - Testosterone has behavioural effects and is associated to aggression.
+  - Testosterone has an evolutionary explanation with high levels allowign males to compete for 
+    opportunities to mate with fertile females as well as taking on the hunter role.
+
+- Oestrogen:
+  - A female hormone which develops female sexual characteristics and is linked with emotional changes
+    during the menstrual cycle (for example, increased irritability).
+  - This develops secondary sexual characteristics from puberty onwards.
+  - It controls the menstrual cycle and is also important in pregnancy.
+  - It also causes PMT - premenstrual tension or PMS when it becomes a diagnosable disorder.
+
+- Oxytocin:
+  - A hormone produced by the pituary gland in both men and women.
+  - Oxytocin reduces the stress hormone cortisol and facilitates bonding - this is a reason that it is
+    reffered to as the 'love hormone'.
+  - It is released in large doses after childbirth, making the mother feel a strong emotional connection
+    to their baby as well as lactating.
+  - It is produced in lower quantities in men, and this fuels the stereotype that men are less interested
+    in intimacy and closeness; however, research shows that it is produced in equal amounts in both sexes
+    during amorous activities.
+
+- When the Y chromosome of the foetus is detected by the baby's brain, approximately two months after 
+  conception, this slows down the oestrogen production. Testosterone production increases and the baby
+  continues to grow as a boy.
+
+- Imperato-McGinley et al (1974):
+  - The aim of the study was to determine the effects of 
+    testosterone on the formation of male-gender identity.
+  - Males whos external genetalia didn't match internal 
+    genetalia (pseudophermaphrodites) were studied.
+  - They had decreased DHT (a more potent androgen) due to
+    a 5 alpha-reductase (the enzyme that converts testosterone
+    to DHT) defficiency.
+  - The subjects were born with female appearing genetalia
+    and were raised as girls.
+  - They had high-normal levels of testosterone.
+  - 18/38 were unambigously rasised as girls, yet during or
+    after puberty, 17/18 changed to a male-gender identity,
+    and 16/18 to a male-gender role.
+  - The conclusion was that normal levels of testosterone
+    appear to contribute substantially to the formation
+    of male-gender identity. Even when met with sociocultural
+    factors, testosterone can overide the effect of being raised 
+    as girls.
+
+- David Reimer:
+  - David Reimer was a Canadian boy who was raised as a girl 
+    following advice and intervention after his penis was 
+    severely injured during a failed circumcision in infancy.
+
+## Hormonal imbalance
+- Androgen insensitivity syndrome:
+  - It causes individuals to have insensitivity to androgens.
+    In effect the body would produce testosterone, but the 
+    individual would not respond to it.
+    - This can lead to no external male genitalia being
+      developed.
+  - Females can also be exposed to large doses of male hormones 
+    (this could be due to medication while the mother was
+    pregnant).
+    - This causes the females to develop swollen genitalia 
+      (resembling a penis).
+  - This happened to members to the Batista family in the 
+    Dominican republic - some male family members appeared 
+    females at birth, and were raised female, but once 
+    hormonal changes in puberty occured that physically turned 
+    into males and changed to living as males.
+
+
+
 
