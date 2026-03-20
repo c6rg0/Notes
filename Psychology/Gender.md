@@ -616,3 +616,15 @@ nucleus of animal and plant cells.
    
    In marriage, neither gender has the power.
 
+
+
+
+- Outline one biological explanation of gender dysphoria (4 
+   marks).
+
+One biological explanation of gender dysphoria is a difference
+in BSTc size. One average in males, the BSTc is twice as large
+as in women. In transgender individuals, the BST size
+most matches the sex of the gender they identify with.
+
+
