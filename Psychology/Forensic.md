@@ -345,4 +345,321 @@ especially when considering that most sibling pairs have been raised in the same
   others.
 
 
+# Dealing with offender beahviour
+
+## Custodial sentencing
+- Custodial sentencing is where an offender spends time in 
+  a prison or other institution as a punishment for their 
+  crime.
+- This is where individuals are confirmed for a defined 
+  length of time as punishment.
+- The types and severity of the custodial sentence depends
+  on a number of factors.
+
+- There are 4 main aims of custodial sentencing:
+  - Deterrence is the idea that being in prison should be an 
+    umpleasant experience.
+  - Incapacitation refers to being taken out of society as 
+    they are a danger to the public.
+  - Retribution refers to making the offender suffer in some
+    way.
+  - Rehabilitation is another aim.
+
+## Psychological effects of custodial sentencing
+- The main effects on those incarcerated include stress and 
+  depression, shown through much higher suicide and self-
+  harm rates than in the general population.
+  - Hawton et al. (2013) found that self-harm, particularly
+    in female offenders, and suicide rates are higher in 
+    prison populations than the general population.
+  - Unver et al. (2013) found that stress, depression and 
+    anxiety are present in large number particularly 
+    those who had been victims of domestic violence in
+    childhood.
+- Another effect is institutionalisation, meaning that 
+  prisoners become accustomed to the prison way of life, 
+  making it hard for them to adjust to living on 'the 
+  outside'. They are unable to cope with the unpredictable, 
+  unstructured nature of life outside prison.
+- Prisonisation refers to the adoption of an 'inmate code',
+  whereby certain behaviours usually seen as acceptable are
+  rewarded in the institution.
+- Brutalisation is where prisons can make individuals cruel,
+  violent or even insensitive to the pain that other people
+  go through repeated exposure to violence. Violence and 
+  assaults are common in prisons, often driven by the desire
+  to gain respect from other prisoners or demonstrate 
+  toughness.
+- School for crime - prisons can turn into an environement
+  where criminal behaviour is reinforced and criminal 
+  networks also built which then makes prisoners deeply
+  ingrained in a criminal lifestyle.
+
+- Labeling - the label of criminala or ex-prisoner can cause
+  stigma and damage self-esteem, and also has an effect
+  on employment causing isolation.
+- Loss of key social roles - some roles like being a parent,
+  or spouse, even their career, can be taken away from 
+  prisoners. This can lead to identity crisis and loss of 
+  self-worth.
+- This rejection from society can increase the likelihood of
+  offenders reoffending and returning to prisons.
+
+## Recidivism
+- This refers to re-offending.
+- In 2013 it was found that 57% of offenders in the UK
+  re-offended within one year of relesase from an institution,
+  and some studies have shown figures as high as 70%.
+- Overall proven reoffending rate was 28.9% in 2024, with 
+  adults offending rates at 28.8%, child offenders at the 
+  rate of 31.4%. (MoJ, 2026)
+- The UK and US have some of the highest rates of recidivism
+  in the world, wheras in Norway rates are the lowest in 
+  europe. Norwegian prisons place much more emphasis on 
+  rehabilitation than retribution, although they have been 
+  criticised for being too 'soft'.
+
+## Evaluation
+- The prison regorm trust (2014) found that 25% of women and
+  15% of men in prison reported signs of psychosis, supporting
+  that custodial sentencing causes stress and depression and 
+  suggesting that it may not be suitable for psychologically 
+  vulnurable individuals.
+- Research by Bartol (1995) supports the negative 
+  psychological effects of imprisonment, with high suicide 
+  rates and signs of psychosis among inmates indicating that
+  the harsh prison environment can worsen mental health.
+- Cause and effect - criticism of psychological effects of
+  prisons is the problem of cause and effect. It is difficult
+  to establish whether the negative psychological effects 
+  seen in prison are caused by imprisonment, or whether the
+  offender already had preexisting issues.
+
+- Prisons can offer valuable rehabilitation through education,
+  training, and programmes like anger management and social
+  skills training, which may redcue reoffending - some 
+  argue that this outweighs the negative the negative
+  drawbacks of prisons.
+- Prisons function as a sense of safety for society especially
+  victims, whne incapacitated, the offenders who pose a 
+  significant danger.
+- However, Davies and Raymond (2000) concluded that prisons
+  do little to rehabilitate or deter offenders, and that
+  despite this, government ministers often exaggerate the
+  benefits of custodial sentencing to appear 'tough on 
+  crime'. 
+
+# Briefly evaluate custodial sentencing as a way of dealing 
+# with offending bahviour. (4 marks)
+
+An advantage of custodial sentencing is that it incapacitates
+criminals, removing them from society so if they were a 
+threat, they can no longer be one. However, in 2013 it was 
+found that 57% of offenders in the UK re-offended within one 
+year of release from an institution, showing that the 
+effects of incapacitaion are temporary.
+
+
+## Behaviour modification in custody
+- Behaviour modification programmes aim to reinforce obedient
+  or desirable behaviour in offenders, based on the 
+  behaviourist principle that all behaviour is learned.
+  Undesirable behaviour should therefore be punished to reduce
+  the likelihood of such behaviour being repeated.
+- They are based on the principles of operant conditioning 
+  which aim to bring about specific changes in behaviour and 
+  involve rewarding 'appropriate' behaviour and withholding 
+  rewards for 'inappropriate' behaviour.
+
+- Token economy: This can be used in prisons where desirable
+  behaviours, such as avoiding conflict and keeping a cell
+  tidy, can be rewarded with tokens (*secondary reinforcers*)
+  which can be exchanged for a *primary reinforcer* - 
+  something desirable such as extra food or a phone call home.
+  Non-compliance or disobedience results in tokens and their
+  associated privileges being withheld.
+- Hobbs and Holt (1976) introduced a token economy program
+  with young delinquents in three behavioural units, and
+  a forth acted as a control. They observed a significant
+  improvement in a positive behaviour as a result of the
+  introduction of the token economy. Allyon (1979) also 
+  found similar effects in an adult prison.
+
+- Changing behaviour: To make this process more manageable,
+  a desirable behaviour, such as avoiding conflict, is
+  broken down into more achievable sub-steps, such as 
+  working well in a group. The same behaviours would be 
+  rewarded by every person (prison officer) the offender 
+  comes into contact with.
+
+- However, Field (2004) found that for maximum effect, the
+  rewards and frequency of them needed to be individually
+  tailored to the inmate.
+
+## Miltenberger (2008) components of token economy
+1. Target behaviours: These are the behaviours that are 
+  selected as desirable (which should be shown more) and 
+  undesirable (which should be shown less).
+
+2. Type of tokens: This refers to the tokens selected for
+  use in the token economy, such as stars, poker chips, 
+  plastic tokens, etc.
+
+3. The reinforcer: This is what tokens will be exchanged for;
+  usually material items, services or activities.
+
+4. Reinforcement schedule: A reinforcement schedule needs to
+  be decided - this is initially continuous but partial 
+  reinforcement could be used as time passes.
+
+5. Exchange criterion: This is the exchange price - for 
+  example, a chocolate bar costs five tokens.
+
+6. Time/place for exchange: A decision about when the tokens
+  can be exchanged and where.
+
+7. Response cost: A penalty or fine could be used where 
+  tokens are taken away for engaging in undesirable behaviour
+  (not often used).
+
+
+## Evaluation
+- Token economies are easy to implement and do not require
+  specialist training or expense, like other therapies
+  such as Anger management. However, all staff must implement
+  them consistently if they are to work.
+- Grandreau et al's. (2014) meta-analysis found that token
+  economies ecourage prisoners (69% in their analysis) to
+  engage in prosocial behaviour, education and work 
+  assignments.
+- The effects they appear to produce may not be primarily 
+  due to the token economy. Patients may be responding to
+  increased attention, a planned system of activities,
+  and improved monitoring rather than a desire to get tokens.
+
+- Token economies may not really change behaviour - people
+  may simply mimic or fake desirable behaviours in order to
+  get tokens. On release, prisoners revert back to previous
+  criminal behaviours. Therefore, they are seen as not having
+  long-term effectiveness.
+- Token economies are not as effective with experienced
+  offenders as they are with juvenile offenders (i.e, the 
+  longer someone has been a part of the prison system, the
+  less likely they are to respond to rehabilitative systems
+  such as a token economy.
+- Token economies raise ethical issues. Is it ethical to
+  withhold privileges, or human rights?
+
+## Anger management
+- Raymond Novaco (1975) suggested that thought processes 
+  trigger emotional arousal, which then leads to aggressive
+  or criminal acts.
+- In such individuals, anger arises more quickly. Anger
+  management aims to identify the signs which trigger anger
+  and learn techniques to calm down and deal with a situation
+  more positively, without the need to resort to violence.
+- Therefore anger management programmes are a form of 
+  cognitive behaviour therapy where they individual is taught
+  how to recognise what triggers them learn how to deal with
+  them without violence.
+
+Three Stages of anger management:
+1. Cognitive preperation:
+- The offender reflects on past experiences and actions to
+  identify what triggers their anger and how they intepret
+  situations (for instance, seeing a person looking at them
+  and intepreting this as a sign of hostility).
+- They are taught to try to intepret such situations 
+  differently.
+
+2. Skill scquisition: 
+- Offenders are tuaght a range of techniques and skills to 
+  help them deal with anger and to approach anger-triggering
+  situations differently.
+- They may include positive self-talk, communicating more
+  effectively, and relaxation techniques.
+- Breathing, relaxation, reframing, etc.
+
+3. Application practice:
+- Offenders practice their skills through techniques such as
+  role play, where previous anger-inducing situations are 
+  re-enacted by the therapist and offender, in order to use
+  more rational and calm responses.
+- They can deliberately provoke the offender, and they in 
+  turn have to respond calmly to the provocation in order
+  to de-escelate the situation.
+
+## Evaluation
+- Anger management involves cognitive, behavioural and
+  social techniques, recognising the complexity of anger
+  as an emotional response. This therefore strengthens the
+  technique as a way of dealing with offending behaviour.
+
+- Anger management aims to change the cognitive cuases of
+  anger, rather than superficially changing behaviour (as
+  in token economy techniques). Therefore, this technique
+  should be more likely to lead to long-lasting behavioural
+  change. 
+
+- However the role play situations cannot account for
+  all possible anger-triggering scenarios.
+
+- Evidence suggests that not all criminals, or crimes, are
+  motivated by anger. Loza and Loza-Fanous (1999) found no 
+  difference in levels of anger amongst violent and non-
+  violent offenders. Therefore, anger management is a limited
+  technique to deal with offending behaviour.
+
+- There is limited evidence as to the long-term effectiveness
+  of anger management programmes.
+  - Role-play with a therapist lacks mundane realism, as it
+    cannot hope to replicate real-life enducing situations
+    (e.g., a drunken altercation on a saturday night).
+
+## Resorative justice
+- Restorative justice involves an offender reconciles with
+  the victim of their crime, so that they see the impact of
+  what they have done (and that victims can be empowered).
+- Victims take an active role in this process, and offenders
+  are encouraged to take responsibility for the effect of 
+  their crime, This involves a managed programme of 
+  collaboration between offender and victim.
+- Supervised meetings are held with a mediator, where the 
+  victim can explain to the offender the effects of the 
+  crime on them and the emotional distress caused.
+
+- Key features: Differenct restorative justice programmes
+  have different features but there are a few that are 
+  shared by all:
+  - Focus on acceptance of responsibility, rather than 
+    punishment,
+  - Victims (usually referred to as survivors) and offenders
+    meet outside of a courtroom setting,
+  - Active, no passive, involvement of all parties.
+  - Focus on positive outcomes for the survivor and offender.
+- Sometimes face-to-face meetings may not take place, but
+  instead the offender may pay compensation to the surviror.
+
+## Restorative Justice Council (RJC)
+- This is an independent body which sets standards for
+  restorative justice and supports those involved in the 
+  process.
+- The RJC supports the use of restorative justice in many
+  areas: prisons, workplaces and so on.
+
+## Evaluation
+- Unlike custodial sentencing, restorative 
+  justice is flexible and can be changed to adapt to the
+  needs of those involved, which is a strength of this 
+  method of dealing with offender behaviour.
+- Resorative justice may not lead to positive outcomes, if 
+  the offender is motivated by a desire to avoid prison 
+  or if the victim is motivated by revenge. 
+- Restorative justice may be expensive, required skilled,
+  trained professionals, time-consuming and have high drop-
+  out rates (as the offender/victim may drop out).
+
+
+
+
 

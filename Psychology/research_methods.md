@@ -81,4 +81,29 @@ the codes the researchers could use are:
 
 
 
+# Explain the difference between an aim and a hypothesis in psychological research (4 marks):
+An aim is a decleration of what you want to achieve during research. A hypothesis is an educated guess regarding what the findings will be 
+after the experiment. A hypothesis can be directional, and it serves as a basis for scientific research.
+
+# Confounding variables
+Confounding variables are a type of extraneous variable that are related to a study's independent and dependent variable. A variable
+must meet two conditions to be a confounded:
+- It must be correlated with the independent variable
+- It must be casually related to the dependent variable
+
+# Covariables
+A covariable refers to two variables measured in a correlation study to assess the relationship between them. In this type of research, 
+both covariables are measured to see whether a change in one is associated with a change in the other.
+
+Null hypotheses are predictions that oppose the experimental/aternative correlations.
+The goal is to reject the null hypothesis.
+
+Directional hypotheses are used when previous research exists to support a direction.
+
+
+# Define what is meant by a non-directional hypothesis and give an example (4 marks)
+A non-directional hypothesis is a hypothesis that doesn't describe a predicted direction. This may be used when there is no previous 
+research to form an educated guess on the direction. An example of a non-directional hypothesis is "There is an effect of social media 
+on mental health".
+
 

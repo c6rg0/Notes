@@ -154,3 +154,42 @@ are highly price sensitive".
 9. Raising concerns over obesity means that legislation against HFSS may be put in place, which could affect sales.
 10. Because of rising concerns over health.
 11. 
+
+- Changes in pricing to reflect social trends:
+    - online sales,
+    - Price comparison sites,
+
+# 2.2.1 Sales forecasting
+- Although the risk of producing innacurate forecasts can be reduced, forecasts are not guaranteed and businesses operating in dynamic 
+  markets will find it significantly more difficult to forecast accurately beyond a very short period of time in the future.
+  
+
+
+
+
+# Example 2
+1. (0, 0)
+2. (4, 12)
+3. (6, 18)
+4. (12, 12)
+5. (22, 22)
+6. (31, 31)
+7. (37 , 37)
+
+
+
+# Example 3
+1. 0, 0
+2. 4, 6
+3. 1, 8
+4. 6, 6
+5. 14, 14
+6. 12, 6
+7. 18, 18
+8. 29, 29
+
+
+
+
+
+
